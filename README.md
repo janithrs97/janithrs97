@@ -22,4 +22,4 @@ Feel free to reach out through any of these platforms:
 
 ## Contact Me
 
-If you have any questions or just want to chat, feel free to email me at [youremail@example.com](mailto:jsilva1@paylocity.com).
+If you have any questions or just want to chat, feel free to email me at [jsilva1@paylocity.com](mailto:jsilva1@paylocity.com).
