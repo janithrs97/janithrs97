@@ -7,11 +7,8 @@ I'm a passionate developer specializing in front end engineering. I love creatin
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-
-
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=janithrs97&show_icons=true&theme=radical)
+![SQL](https://img.shields.io/badge/-React-black?style=flat-square&logo=sql)
+![C#](https://img.shields.io/badge/-React-black?style=flat-square&logo=csharp)
 
 ## Connect with Me
 
